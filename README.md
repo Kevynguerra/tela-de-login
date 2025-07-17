@@ -31,10 +31,6 @@ Este é um projeto simples de **tela de login** desenvolvido para treinar habili
 - Adicionei **ícones decorativos** nos inputs com **Boxicons**
 - Usei **Google Fonts** para uma tipografia moderna e agradável
 
-## 🖼️ Preview
-
-![Preview da Tela](./imagem/ChatGPT%20Image%2013%20de%20jun.%20de%202025,%2011_24_48.png)
-
 ---
 
 ## 📌 Observações
